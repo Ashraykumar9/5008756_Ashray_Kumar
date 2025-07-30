@@ -1,5 +1,8 @@
 # 5008756_Ashray_Kumar
-## SDLC TRAINING
+
+# LTTS StepIn Training
+
+## Week 1 - SDLC TRAINING
 
 [5008756_Ashray_Kumar_SDLC.pdf](https://github.com/user-attachments/files/21462585/5008756_Ashray_Kumar_SDLC.pdf)
 
@@ -7,7 +10,7 @@
 
 
 
-## GIT TRAINING
+## Week 2 - GIT TRAINING
 
 [5008756_Ashray_Kumar_GIT.pdf](https://github.com/user-attachments/files/21427331/5008756_Ashray_Kumar_GIT.pdf)
 
